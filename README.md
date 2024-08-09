@@ -1,2 +1,2 @@
-# Frontend_CSS_Task1
- Designing a Thematic Profile Page
+# Frontend_CSS_Task3
+  Implementing CSS Pseudo-Classes on Your Profile Page
